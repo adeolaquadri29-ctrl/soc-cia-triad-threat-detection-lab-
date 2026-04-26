@@ -1,3 +1,7 @@
+CYBERSECURITY INCIDENT REPORT
+
+CIA TRIAD THREAT DETECTION LAB
+
 1. Introduction
 
 This report presents a practical implementation of the CIA Triad (Confidentiality, Integrity, and Availability) through simulated cyber attacks in a controlled SOC environment.
